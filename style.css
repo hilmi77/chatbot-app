@@ -187,4 +187,7 @@ header h2 {
   .chatbot .chat-input {
     padding: 5px 15px;
   }
+    .chatbot header span {
+    display: block;
+  }
 }
