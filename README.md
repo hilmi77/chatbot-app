@@ -6,3 +6,5 @@
 
 -Please note that your chatbot is currently unable to retrieve responses to your questions because you have not provided your API key in the AP_KEY variable. To get a free API key from OpenAI, sign up for an account at
 https://platform.openai.com/account/api-keys.
+
+-live site --> https://hilmi77.github.io/chatbot-app/
